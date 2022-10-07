@@ -1,0 +1,13 @@
+
+/*
+    CSS for the main navigation component
+*/
+
+#subNavLinkContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.subNavLink {
+    padding: 2%;
+}
